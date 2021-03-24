@@ -30,7 +30,7 @@ use yii\widgets\ActiveForm;
             <a style="padding-top: 9px;padding-right: 20px;" class="t-close btn-color fa fa-times alert-close-btn" data-dismiss="alert" aria-label="Close" href="javascript:;"></a>
         </div>
         </div>
-
+ 
         <?php endif; ?>
     </div>
     <div class="col-md-6">
