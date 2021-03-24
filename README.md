@@ -61,10 +61,10 @@ environments/            contains environment-based overrides
 Installation and setup steps
 
 1.Please checkout the folder to local and give permission to the assets folder in the root.<br>
-2.Open terminal and change the directory  to the project folder
-3.create a database
-4.run the command : php init
-6.update the common/config/main-local.php file with database details 
-7.run 'composer install' for download the dependencies
-8.Migrate the tables using the command : php yii migrate
+2.Open terminal and change the directory  to the project folder.<br>
+3.create a database.<br>
+4.run the command : php init <br>
+6.update the common/config/main-local.php file with database details. <br>
+7.run 'composer install' for download the dependencies<br>
+8.Migrate the tables using the command : php yii migrate<br>
 9.then enter the url :http://localhost/organization/frontend.php or if you already setup a virtual host then run siteurl/frontend.php
