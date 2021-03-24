@@ -67,4 +67,4 @@ Installation and setup steps
 6.update the common/config/main-local.php file with database details 
 7.run 'composer install' for download the dependencies
 8.Migrate the tables using the command : php yii migrate
-9.then enter the url :http://localhost/organization/frontend.php or if you already setup a virtual host then run "siteurl"/frontend.php
+9.then enter the url :http://localhost/organization/frontend.php or if you already setup a virtual host then run siteurl/frontend.php
