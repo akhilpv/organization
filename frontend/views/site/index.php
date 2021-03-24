@@ -60,7 +60,7 @@ $this->title = 'Organization';
                                 <td><?=(!empty($data->dob)) ? $from->diff($to)->y : 'NA'?></td>
                                 <td><?=(!empty($data->joining_date)) ? $experience->diff($to)->y : 'NA'?></td>
                             </tr>
-                            <?php
+                             <?php
                                         endforeach;
                                     } else { 
                                     ?>
