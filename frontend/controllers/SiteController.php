@@ -110,7 +110,7 @@ class SiteController extends Controller
                 if(count($filecsv) > 20 || count(explode(',',$filecsv[0])) > 5)
                 {
                     Yii::$app->session->setFlash('error', 'Please check the row count and column count');
-                }
+                } 
                 else{
                     foreach($filecsv as $data){
                         
