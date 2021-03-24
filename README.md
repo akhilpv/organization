@@ -60,9 +60,9 @@ environments/            contains environment-based overrides
 ```
 Installation and setup steps
 
-Please checkout the folder to local and give permission to the assets folder in the root.
-Open terminal and change the directory  to the project folder
-create a database named : organisation
-run the command : php init
-after that migrate the tables using the command : php yii migrate
-then enter the url :http://localhost/organization/frontend.php
+1.Please checkout the folder to local and give permission to the assets folder in the root.
+2.Open terminal and change the directory  to the project folder
+3.create a database named : organisation
+4.run the command : php init
+5.after that migrate the tables using the command : php yii migrate
+6.then enter the url :http://localhost/organization/frontend.php
