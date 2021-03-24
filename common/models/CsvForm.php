@@ -15,7 +15,7 @@ class CsvForm extends Model{
             [['name','department','joiningdate','dob','empcode'],'integer'],
             [['name','department','joiningdate','dob','empcode'],'required'],
         ];
-    }
+    } 
    
     public function attributeLabels(){
         return [
