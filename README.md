@@ -58,6 +58,7 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+Installation and setup steps
 
 Please checkout the folder to local and give permission to the assets folder in the root.
 Open terminal and change the directory  to the project folder
