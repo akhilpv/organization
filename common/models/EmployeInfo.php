@@ -36,8 +36,8 @@ class EmployeInfo extends \yii\db\ActiveRecord
             [['emp_name', 'department'], 'string', 'max' => 255],
             [['emp_code'],'unique'],
         ];
-    }
-
+    } 
+ 
     /**
      * {@inheritdoc}
      */
