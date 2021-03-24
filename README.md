@@ -58,3 +58,10 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+
+Please checkout the folder to local and give permission to the assets folder in the root.
+Open terminal and change the directory  to the project folder
+create a database named : organisation
+run the command : php init
+after that migrate the tables using the command : php yii migrate
+then enter the url :http://localhost/organization/frontend.php
