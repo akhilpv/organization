@@ -60,7 +60,7 @@ environments/            contains environment-based overrides
 ```
 Installation and setup steps
 
-1.Please checkout the folder to local and give permission to the assets folder in the root.
+1.Please checkout the folder to local and give permission to the assets folder in the root.<br>
 2.Open terminal and change the directory  to the project folder
 3.create a database
 4.run the command : php init
